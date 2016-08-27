@@ -1,0 +1,20 @@
+Package: dgodata
+Title: Data for the 'dgo' Package
+Version: 0.0.1
+Description: Provides data used by package 'dgo' in examples and vignettes.
+Maintainer: James Dunham <james@jdunham.io>
+Authors@R: c(
+    person("James", "Dunham", email = "james@jdunham.io", role = c("aut", "cre")),
+    person("Devin", "Caughey", email = "caughey@mit.edu", role = c("aut")),
+    person("Christopher", "Warshaw", email = "cwarshaw@mit.edu", role = c("aut"))
+    )
+License: GPL-3
+URL: https://github.com/jamesdunham/dgodata
+BugReports: https://github.com/jamesdunham/dgodata/issues
+Depends:
+    R (>= 2.10.0)
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    dgo
+RoxygenNote: 5.0.1
