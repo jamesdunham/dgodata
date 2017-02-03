@@ -1,0 +1,8 @@
+# .travis.yml for R projects from https://github.com/craigcitro/r-travis
+language: r
+cache: packages
+
+notifications:
+  email:
+    - jdunham@mit.edu
+
