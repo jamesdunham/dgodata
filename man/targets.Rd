@@ -20,4 +20,3 @@ targets
 \seealso{
 \url{http://www.census.gov/}
 }
-

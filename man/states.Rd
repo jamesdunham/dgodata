@@ -14,4 +14,3 @@ A table giving demographic characteristics of American states 1930-2015.
 \examples{
 states
 }
-

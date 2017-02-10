@@ -19,4 +19,3 @@ opinion
 \seealso{
 \url{http://projects.iq.harvard.edu/cces/data}
 }
-

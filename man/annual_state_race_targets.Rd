@@ -22,4 +22,3 @@ annual_state_race_targets
 \seealso{
 \url{http://www.census.gov/}
 }
-

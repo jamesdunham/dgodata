@@ -18,4 +18,3 @@ aggregates
 \seealso{
 \url{http://www.gss.norc.org}
 }
-

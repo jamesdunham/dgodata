@@ -8,4 +8,3 @@
 \description{
 'dgodata' provides data used by package 'dgo' in examples and vignettes.
 }
-
