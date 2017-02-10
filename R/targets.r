@@ -2,8 +2,8 @@
 #'
 #' A table giving U.S. population proportions by year for combinations of
 #' demographic variables. For use with the \code{target_data} argument of
-#' \code{\link[dgo]{shape}}. Data are from the U.S. Census. Proportions sum to
-#' to 1 within years.
+#' function \code{shape} in package '\href{https://jdunham.io/dgo/}{dgo}'. Data
+#' are from the U.S. Census.  Proportions sum to to 1 within years.
 #'
 #' @docType data
 #' @name targets
