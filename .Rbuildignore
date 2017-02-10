@@ -1,1 +1,4 @@
 ^data\-ext$
+^appveyor\.yml$
+^\.travis\.yml$
+
