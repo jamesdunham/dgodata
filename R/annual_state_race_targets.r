@@ -12,6 +12,4 @@
 #' @usage annual_state_race_targets
 #' @format A {data.frame} with 13,158 observations of 4 variables.
 #' @seealso \url{http://www.census.gov/}
-#' @examples
-#' annual_state_race_targets
 NULL

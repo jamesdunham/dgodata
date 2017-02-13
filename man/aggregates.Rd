@@ -12,9 +12,6 @@ aggregates
 A table of aggregated item responses given by survey respondents and their
 characteristics. Data are from the General Social Survey.
 }
-\examples{
-aggregates
-}
 \seealso{
 \url{http://www.gss.norc.org}
 }

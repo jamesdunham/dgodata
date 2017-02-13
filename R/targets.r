@@ -8,8 +8,6 @@
 #' @docType data
 #' @name targets
 #' @usage targets
-#' @format A \code{data.frame} with ~1.6M observations of 10 variables.
+#' @format A \code{data.frame} with ~803K observations of 10 variables.
 #' @seealso \url{http://www.census.gov/}
-#' @examples
-#' targets
 NULL

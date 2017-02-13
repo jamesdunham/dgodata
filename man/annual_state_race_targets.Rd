@@ -16,9 +16,6 @@ variables in that dataset. For use with the \code{target_data} argument of
 function \code{shape} in package '\href{https://jdunham.io/dgo/}{dgo}'. Data
 are from the U.S. Census. Proportions sum to to 1 within years.
 }
-\examples{
-annual_state_race_targets
-}
 \seealso{
 \url{http://www.census.gov/}
 }

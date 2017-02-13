@@ -6,6 +6,4 @@
 #' @name states
 #' @usage states
 #' @format A \code{data.frame} with 4,386 observations of 12 variables.
-#' @examples
-#' states
 NULL

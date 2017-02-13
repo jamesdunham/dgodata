@@ -9,6 +9,4 @@
 #' @usage opinion
 #' @format A \code{data.frame} with 147,998 observations of 12 variables.
 #' @seealso \url{http://projects.iq.harvard.edu/cces/data}
-#' @examples
-#' opinion
 NULL

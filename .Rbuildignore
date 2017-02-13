@@ -1,4 +1,5 @@
 ^data\-ext$
 ^appveyor\.yml$
 ^\.travis\.yml$
+^\cran_comments\.md$
 

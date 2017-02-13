@@ -8,6 +8,4 @@
 #' @usage aggregates
 #' @format A {data.frame} with 4,284 observations of 7 variables.
 #' @seealso \url{http://www.gss.norc.org}
-#' @examples
-#' aggregates
 NULL
